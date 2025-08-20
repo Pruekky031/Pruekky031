@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on I need advice about Things you should know to be a developer in various fields such as AI or microcontrollers, etc.
 - 📫 How to reach me ... You can contact me through IG Facebook!!
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Even though python has indenterror, it's not a simple syntax error haha !(The joke isn't funny BRUH)
 
 
 <!---
