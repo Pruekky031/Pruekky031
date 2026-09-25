@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruek</h1>
-<h3 align="center">A Programmer from KMUTNB Thailand. Studied in Bachelor of Engineering Program in Electronics Engineering [ EnET-Computer (EnET-C)] CIT king mongkut's university of technology north bangkok</h3>
+<h3 align="center">A Programmer from KMUTNB Thailand. 
+  Studied in Bachelor of Engineering Program in Electronics Engineering [ EnET-Computer (EnET-C)] 
+  CIT king mongkut's university of technology north bangkok</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
